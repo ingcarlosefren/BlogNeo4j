@@ -7,7 +7,7 @@
 	**********/
     try{
         $connection = ClientBuilder::create()
-            ->addConnection('default', 'http', '150.136.170.184', 7474, true, 'neo4j', 'Ce1067865276*')
+            ->addConnection('default', 'http', 'ip_hostname', 'port', true, 'user', 'pass')
             ->setAutoFormatResponse(true)
             ->build();
     }catch(\Exception $e){
