@@ -1,6 +1,7 @@
 <?php
 // Instantiate the class responsible for implementing a micro application
-$app = new \Phalcon\Mvc\Micro();
+use Phalcon\Mvc\Micro;
+$app = new Micro();
 
 // Routes
 $app->get('/', 'home');
