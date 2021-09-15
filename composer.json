@@ -1,5 +1,7 @@
 {
     "require": {
+      "php": "==7.0.15",
+      "ext-phalcon": "^3.0.4",
       "neoxygen/neoclient":"~2.1"
     }
   }
