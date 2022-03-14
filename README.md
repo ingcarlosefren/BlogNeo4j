@@ -84,4 +84,3 @@ http://host/Neo4jMovies/api/api/filmography/Keanu%20Reeves
 
 Edita los archivos `connection.php` y `api/index.php` incluyendo tu código donde aparece `***YOUR CODE HERE***` siguiendo las instrucciones.
 
-La aplicacion corregida esta corriendo en un servidor oracle, dentro de un contenedor <a href="http://129.213.55.242/index.php"> Aqui </a>
